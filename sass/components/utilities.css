@@ -1,0 +1,218 @@
+.em4 {
+  width: 4em;
+}
+
+.margin-auto {
+  margin: auto;
+}
+
+.margin-0 {
+  margin: 0;
+}
+
+.margin-20 {
+  margin: 20px;
+}
+
+.margin-top-5 {
+  margin-top: 5em;
+}
+
+.margin-top-10 {
+  margin-top: 10em;
+}
+
+.margin-bottom-5 {
+  margin-bottom: 5em;
+}
+
+.margin-bottom-8 {
+  margin-bottom: 8em;
+}
+
+.margin-10-25 {
+  margin: 10px 25px !important;
+}
+
+.margin-sides-40 {
+  margin: 0 40px;
+}
+
+.padding-10 {
+  padding: 10px;
+}
+
+.padding-20 {
+  padding: 20px;
+}
+
+.padding-sides-10 {
+  padding: 0 10em;
+}
+
+.padding-sides-3 {
+  padding: 0 3em !important;
+}
+
+.height-160 {
+  height: 160px;
+}
+
+.height-200 {
+  height: 200px;
+}
+
+.height-250 {
+  height: 250px;
+}
+
+.height-600 {
+  height: 600px;
+}
+
+.height-30vh {
+  height: 30vh;
+}
+
+.height-10vh {
+  height: 10vh;
+}
+
+.float-right {
+  float: right;
+}
+
+.width-40 {
+  width: 40vw;
+}
+
+.width-100 {
+  width: 100%;
+}
+
+.width-80 {
+  width: 80%;
+}
+
+.width-30 {
+  width: 30%;
+}
+
+.width-50 {
+  width: 50%;
+}
+
+.width-60 {
+  width: 60%;
+}
+
+.top-left-1-80 {
+  top: 1%;
+  left: 80%;
+}
+
+.fixed-nav {
+  position: fixed;
+  z-index: 1;
+}
+
+/*TEXT-STYLES*/
+.font-3 {
+  font-size: 3em;
+}
+
+.message-text {
+  color: #FFFFFF;
+  font-family: "Nunito", sans-serif;
+  font-size: 27px;
+  text-align: center;
+}
+
+.text-about {
+  font-family: "Nunito", sans-serif;
+  text-align: center;
+  font-size: 1em;
+}
+
+.text-intro {
+  color: #FFFFFF;
+  font-family: "Nunito", sans-serif;
+  text-align: center;
+}
+
+h1, h2 {
+  color: #FFFFFF;
+  font-family: "Nunito", sans-serif;
+  font-weight: 400;
+  font-size: 3.2rem;
+  margin: auto;
+}
+
+h4 {
+  font-family: "Nunito", sans-serif;
+}
+
+.menu-mobile {
+  margin: 20px 0;
+}
+
+/*h1.referral{display: none!important;}*/
+a.j-blog {
+  display: none;
+}
+
+.icon-values {
+  font-size: 6em !important;
+  color: #ED0B12;
+}
+
+.icon-about {
+  font-size: 6em !important;
+  color: #005863;
+}
+
+.text-values {
+  color: #3a3fb8;
+  font-family: "Nunito", sans-serif;
+  font-size: 2rem;
+}
+
+.text-services {
+  color: #3a3fb8;
+  font-family: "Nunito", sans-serif;
+  font-size: 1.5rem;
+}
+
+/* IMAGES-STYLE*/
+.black-filter {
+  background-color: rgba(0, 0, 0, 0.5);
+  height: 100vh;
+}
+
+.black-filter-2 {
+  background-color: rgba(0, 0, 0, 0.6);
+  width: 100%;
+  height: 160px;
+}
+
+.service-1 {
+  background-image: url("../images/tlaloc.jpg");
+  width: 85%;
+  height: 300px;
+  margin: auto;
+  transition: box-shadow 0.25s;
+  border-radius: 20%;
+}
+
+.banner-titles {
+  background-image: url("../images/cloud.jpg");
+  height: 160px;
+  background-size: cover;
+  background-position: center;
+}
+
+.flex-column {
+  flex-flow: column;
+  align-items: center;
+  justify-content: center;
+}/*# sourceMappingURL=utilities.css.map */
