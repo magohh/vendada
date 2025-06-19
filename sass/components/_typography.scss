@@ -64,7 +64,7 @@ small { font-size: 75%; }
     .padding-sides-2{
     padding:0 2rem;}
     .text-intro{
-    font-size: 2rem;}
+    font-size: 1.5rem;}
   }
   
   
@@ -72,11 +72,11 @@ small { font-size: 75%; }
   .padding-sides-2{
     padding:0 6rem;}
     .text-intro{
-    font-size: 2rem;}
+    font-size: 1.5rem;}
   }
 @media #{$large-and-up} {
     .padding-sides-2{
-      padding: 0 20rem;
+      padding: 0 10rem;
     }
     .text-intro{
     font-size: 2rem;}

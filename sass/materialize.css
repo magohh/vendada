@@ -4506,7 +4506,7 @@ small {
     padding: 0 2rem;
   }
   .text-intro {
-    font-size: 2rem;
+    font-size: 1.5rem;
   }
 }
 @media only screen and (min-width : 601px) {
@@ -4514,12 +4514,12 @@ small {
     padding: 0 6rem;
   }
   .text-intro {
-    font-size: 2rem;
+    font-size: 1.5rem;
   }
 }
 @media only screen and (min-width : 993px) {
   .padding-sides-2 {
-    padding: 0 20rem;
+    padding: 0 10rem;
   }
   .text-intro {
     font-size: 2rem;
@@ -8250,4 +8250,9 @@ a.j-blog {
 
 .d-block {
   display: block;
+}
+
+.align-center {
+  display: flex;
+  align-items: center;
 }/*# sourceMappingURL=materialize.css.map */
