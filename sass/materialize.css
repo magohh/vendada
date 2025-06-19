@@ -2903,7 +2903,7 @@ ul.staggered-list li {
 .page-footer {
   padding-top: 20px;
   color: #fff;
-  background-color: #126289;
+  background-color: #352782;
 }
 .page-footer .footer-copyright {
   overflow: hidden;
@@ -3277,7 +3277,7 @@ input[type=range] + .thumb {
   }
 }
 body {
-  background-color: #000;
+  background-color: #e5e5e5;
 }
 
 span.badge {
@@ -4122,7 +4122,7 @@ table span.badge {
 
 nav {
   color: #fff;
-  background-color: black;
+  background-color: #352782;
   width: 100%;
   height: 70px;
   line-height: 70px;
@@ -4507,6 +4507,9 @@ small {
   }
   .text-intro {
     font-size: 1.5rem;
+  }
+  .align-center {
+    flex-flow: column;
   }
 }
 @media only screen and (min-width : 601px) {
@@ -8201,7 +8204,7 @@ a.j-blog {
 }
 
 .text-services {
-  color: #7074dd;
+  color: #585de3;
   font-family: "Nunito", sans-serif;
   font-size: 1.5rem;
 }
@@ -8248,6 +8251,10 @@ a.j-blog {
   color: #18aed0;
 }
 
+.blue2 {
+  color: #585de3;
+}
+
 .d-block {
   display: block;
 }
@@ -8255,4 +8262,12 @@ a.j-blog {
 .align-center {
   display: flex;
   align-items: center;
+}
+
+.br-10 {
+  border-radius: 10px;
+}
+
+.fz-1-5 {
+  font-size: 1.5em;
 }/*# sourceMappingURL=materialize.css.map */
