@@ -871,7 +871,10 @@ th {
   }
 
   .padding-sides-10 {
-    padding: 0 3em !important;
+    padding: 0 1em !important;
+  }
+  .w-250rz{
+    width: 100%!important;
   }
 }
 
@@ -886,8 +889,14 @@ th {
   .em4 {
     width: 20vw;
   }
+  .fz-5{
+    font-size: 4em;
+  }
+  .align-logo{
+    justify-content: center!important;
+  }
+  
 }
-
 body {
   background-color: #e5e5e5;
 }

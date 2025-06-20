@@ -26,6 +26,7 @@
 
 .width-40{width: 40vw;}
 .w-250{width: 250px;}
+.w-250rz{width: 250px;}
 .w-100{width: 100px;}
 .width-100{width: 100%;}
 .width-80{width: 80%;}
@@ -53,6 +54,18 @@
 	text-align: center;
 	font-size: 1em;
 }
+.cabin-sketch-regular {
+	font-family: "Cabin Sketch", sans-serif;
+	font-weight: 400;
+	font-style: normal;
+  }
+  
+  .cabin-sketch-bold {
+	font-family: "Cabin Sketch", sans-serif;
+	font-weight: 700;
+	font-style: normal;
+  }
+  
 
 .text-intro{
 	color:#FFFFFF;
@@ -151,4 +164,12 @@ a.j-blog{
 	border-radius:10px;
 }
 .fz-1-5{font-size: 1.5em;}
+.fz-5{font-size:5em;}
 .m0{margin:0;}
+.align-logo{
+	display: flex!important;
+	align-items: center;
+	justify-content: normal;
+	height: 100%;
+}
+.w-25{width: 25%;}
